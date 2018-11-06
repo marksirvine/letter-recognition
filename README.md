@@ -23,10 +23,10 @@ After masking out all frequencies that do not correspond to the patterns, the da
 
 ### NN Test
 
-New characters were created to test the above algorithm. The images below show the letters created, as well as their classification. In addition to these letters 
+New characters were created to test the above algorithm. The images below show the letters created, as well as their classification. In addition to S, T, V the letters A and B were created to see how the algorithm coped (not well!).
 
 
-<img src="images/testChars.png" width="800">
+<img src="images/testChars.png" width="600">
 <img src="images/test1.png" width="400">
 
 ### Probability Density
