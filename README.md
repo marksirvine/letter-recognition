@@ -3,7 +3,7 @@ Letter recognition using fast fourier transform. This algorithm will recognise t
 
 ![Characters](images/letters.png)
 
-A fast fourier transform is appleid to the characters to get their frequency representation. The images bellow shows this representation (frequency against angle) - there are clearly different patterns created for each letter.
+A fast fourier transform is applied to the characters to get their frequency representation. The images bellow shows this representation (frequency against angle) - there are clearly different patterns created for each letter.
 
 ![FFT](images/fft.png)
 
