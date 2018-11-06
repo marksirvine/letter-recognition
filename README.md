@@ -1,4 +1,4 @@
-# Letter Recognition
+# Letter Recognition (Machine Learning)
 Letter recognition using fast Fourier transform. This algorithm will recognise the characters S, T and V.
 
 ### S,T,V
@@ -23,13 +23,18 @@ After masking out all frequencies that do not correspond to the patterns, the da
 
 ### NN Test
 
+New characters were created to test the above algorithm. The images below show the letters created, as well as their classification.
+
+![](images/testChars.png)
+![](images/test1.png)
+
 ### Probability Density
 
-A probability density function can be applied to the same masked data, this will split the data into three groups just like the NN algorithm, but each prediction will also have a probability of being correct. The following image shows this.
+An alternate clustering, using a probablity density function, can also be found in the code.
 
 ## Requirements
 
-* Python
+* Python2.7
 * Numpy
 * Scipy
 * Skimage
@@ -37,3 +42,7 @@ A probability density function can be applied to the same masked data, this will
 * Matplotlib
 
 * Jupyter notebook (Optional)
+
+## Usage
+
+Simply open letter.ipynb in jupyter notebook.
