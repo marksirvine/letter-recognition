@@ -19,14 +19,15 @@ Three different masks are created, each mask filters for the patterns found abov
 
 After masking out all frequencies that do not correspond to the patterns, the data can be separated into three groups using a nearest neighbour algorithm. This separation can be found in the image below.
 
-<img src="images/indexV.png" width="200">
+<img src="images/indexV.png" width="400">
 
 ### NN Test
 
-New characters were created to test the above algorithm. The images below show the letters created, as well as their classification.
+New characters were created to test the above algorithm. The images below show the letters created, as well as their classification. In addition to these letters 
 
-![](images/testChars.png =100x)
-![](images/test1.png =100x)
+
+<img src="images/testChars.png" width="800">
+<img src="images/test1.png" width="400">
 
 ### Probability Density
 
