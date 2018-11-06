@@ -19,7 +19,7 @@ Three different masks are created, each mask filters for the patterns found abov
 
 After masking out all frequencies that do not correspond to the patterns, the data can be separated into three groups using a nearest neighbour algorithm. This separation can be found in the image below.
 
-![](images/indexV.png =100x)
+<img src="images/indexV.png" width="200">
 
 ### NN Test
 
