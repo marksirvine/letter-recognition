@@ -44,6 +44,6 @@ An alternate clustering, using a probablity density function, can also be found 
 
 * Jupyter notebook (Optional)
 
-## Usage
+## Local setup
 
 Simply open letter.ipynb in jupyter notebook.
